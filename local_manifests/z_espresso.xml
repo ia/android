@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" remote="aosp" groups="pdk,linux,arm" revision="master" />
+
+  <remote  name="blobs" fetch="https://github.com/TheMuppets/" />
+  <project name="proprietary_vendor_samsung" path="vendor/samsung" remote="blobs" revision="cm-13.0" />
+
+</manifest>
+
