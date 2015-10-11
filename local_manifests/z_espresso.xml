@@ -7,5 +7,9 @@
   <remote  name="blobs" fetch="https://github.com/TheMuppets/" />
   <project name="proprietary_vendor_samsung" path="vendor/samsung" remote="blobs" revision="cm-13.0" />
 
+  <remote  name="ia" fetch="https://github.com/ia/" />
+  <remove-project name="CyanogenMod/android_system_vold" />
+  <project name="android_system_vold" path="system/vold" remote="ia" revision="cm-12.1-longisland" groups="pdk" />
+
 </manifest>
 
