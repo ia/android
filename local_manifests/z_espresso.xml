@@ -11,5 +11,7 @@
   <remove-project name="CyanogenMod/android_system_vold" />
   <project name="android_system_vold" path="system/vold" remote="ia" revision="cm-12.1-longisland" groups="pdk" />
 
+  <remove-project name="platform/frameworks/testing" />
+
 </manifest>
 
