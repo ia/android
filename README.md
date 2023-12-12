@@ -1,2 +1,3 @@
-# android_meta
-android stuff
+# Android
+
+HOWTOs, notes & docs related to Android.
