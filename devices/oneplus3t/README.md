@@ -1,6 +1,11 @@
 # OnePlus 3T
 
 
+## Direct links
+
+`wget`-_compatible_ file to download all related prebuilt software.
+
+
 ## Official firmware
 
 site
