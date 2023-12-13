@@ -8,4 +8,5 @@ https://dl.twrp.me/twrpapp/me.twrp.twrpapp-26.apk.sha256
 https://mirrorbits.lineageos.org/full/oneplus3/20231205/lineage-18.1-20231205-nightly-oneplus3-signed.zip
 https://mirrorbits.lineageos.org/full/oneplus3/20231205/boot.img
 https://mirrorbits.lineageos.org/full/oneplus3/20231205/recovery.img
-https://get.pixelexperience.org/changelog/oneplus3/PixelExperience_oneplus3-11.0-20210921-1306-OFFICIAL.zip
+# https://get.pixelexperience.org/changelog/oneplus3/PixelExperience_oneplus3-11.0-20210921-1306-OFFICIAL.zip
+https://dl.pixelexperience.org/dUpkN1dRDqKQ-hagEjHc4L6YgnEHnjQlZSyHJBi3EW5N4-LU4JEgSD_UyPnZPfVsIE8NTrVVfaWVnY9JfE07cXfDixR5m9B08qWzwi8wCNo=/PixelExperience_oneplus3-11.0-20210921-1306-OFFICIAL.zip
