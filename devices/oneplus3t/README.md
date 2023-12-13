@@ -3,7 +3,7 @@
 
 ## Direct links
 
-`wget`-_compatible_ file to download all related prebuilt software.
+[`wget`-_compatible_ file](oneplus3t.txt) to download all related prebuilt software.
 
 
 ## Official firmware
