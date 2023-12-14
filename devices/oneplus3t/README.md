@@ -8,15 +8,10 @@
 
 ## Official firmware
 
-site
-https://www.oneplus.com/global
-
-download place
-https://service.oneplus.com/global/search/search-detail?id=2096329&articleIndex=1
-
-download link
-https://oxygenos.oneplus.net/OnePlus3TOxygen_28_OTA_086_all_1911042121_f2d6336ae39a4545.zip
-
+- [site](https://www.oneplus.com/global)
+- [download place](https://service.oneplus.com/global/search/search-detail?id=2096329&articleIndex=1)
+- [download link](https://oxygenos.oneplus.net/OnePlus3TOxygen_28_OTA_086_all_1911042121_f2d6336ae39a4545.zip)
+- release notes:
 ```
 OnePlus 3T
 
