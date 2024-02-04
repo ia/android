@@ -159,14 +159,14 @@ fastboot  oem  unlock
 - set up & enable adb again after wiping & reboot
 ```
 adb  reboot  bootloader
-fastboot  boot  recovery // to test & to backup
+fastboot  boot  /path/to/recovery.img // to test & to backup
 ```
 - backup everything using twrp
 - transfer backup to reliable storage
 - reboot to bootloader
 - flash recovery
 ```
-TBA
+fastboot  flash  recovery  /path/to/recovery.img
 ```
 - reboot to bootloader
 - boot to recovery
