@@ -142,6 +142,28 @@ TBA
 
 ## Flashing firmware
 
+**CHECK md5/sha256 sums before sending any file to a device**
+
+- configure environment
+-- download & set latest adb/fastboot
+-- configure rules / permissions
+- enable adb on the target android device
+- oem unlock
+- run:
+```
+adb  reboot  bootloader
+fastboot  devices
+fastboot  oem  unlock
+```
+- unlock
+- set up & enable adb again after wiping & reboot
+```
+adb  reboot  bootloader
+fastboot  boot  recovery // to test & to backup
+```
+- backup everything using twrp
+- transfer backup to reliable storage
+
 TBA
 
 
