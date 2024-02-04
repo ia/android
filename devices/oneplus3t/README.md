@@ -133,7 +133,15 @@ https://wiki.lineageos.org/devices/oneplus3/build/variant2
 
 
 
-
 ### Building manually
+
+TBA
+
+
+
+
+## Flashing firmware
+
+TBA
 
 
