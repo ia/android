@@ -3,7 +3,17 @@
 Notes on setting up environment (tools & configs) in GNULinux/Ubuntu for Android firmware & app development
 
 
+
+
 ## Platform tools (adb & fastboot)
+
+
+### Android Studio
+
+TBA
+
+
+### Standalone tarball
 
 Good guide: https://wiki.pixelexperience.org/help/adb-fastboot-guide/
 TODO: create short howto based on the guide
