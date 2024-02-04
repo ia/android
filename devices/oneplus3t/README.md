@@ -163,6 +163,16 @@ fastboot  boot  recovery // to test & to backup
 ```
 - backup everything using twrp
 - transfer backup to reliable storage
+- reboot to bootloader
+- flash recovery
+```
+TBA
+```
+- reboot to bootloader
+- boot to recovery
+- wipe everything except system
+- reboot to recovery
+- sideload
 
 TBA
 
