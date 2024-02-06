@@ -29,6 +29,31 @@ e4e46aa9eebffdd485071383dcda4218
 ```
 
 
+### Initial setup
+
+- turn on the device
+- skip all the logins/settings
+- go to _Settings_ and enable _Developer options_ by openning _About phone_ and clicking multiple times on _Build number_
+- go to _Developer options_ and enable _OEM unlocking_ and _USB debugging_
+- go to _System updates_
+- download original OTA update (if available):
+```
+OS Version: Oxygen OS 4.5.1
+Update size: 1498MB
+```
+- click on `REBOOT TO UPGRADE NOW`
+- wait for reboot & update install
+- wait for another reboot & apps' _optimization_
+- wait for _Finishing Android Update_ notification
+- upload `9.0.6 OTA` update manually to the device (using adb/local http server)
+- move update tarball to the root of `/sdcard` if necessery
+- go to _Settings_ - _System updates_ - _"gear"_ - _Local upgrade_, pick tarball and click `UPGRADE NOW`
+- wait for reboot & update install
+
+
+TBA
+
+
 ## Custom firmware
 
 ### TWRP
