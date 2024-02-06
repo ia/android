@@ -197,8 +197,10 @@ fastboot  flash  recovery  /path/to/recovery.img
 - boot to recovery
 - wipe everything except system
 - reboot to recovery
+
 - sideload
 
-TBA
+- sideload gapps
 
+TBA
 
