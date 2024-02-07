@@ -212,3 +212,9 @@ fastboot  flash  recovery  /path/to/recovery.img
 
 TBA
 
+
+## Rooting
+
+TBA Magisk howto
+
+
