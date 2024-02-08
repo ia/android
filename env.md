@@ -16,7 +16,8 @@ $ chmod  a+x  ~/.local/bin/repo
 $ source  ~/.profile
 
 configure git:
-$ git name TBA
+$ git  config  --global  user.name "Your Name"
+$ git  config  --global  user.email "your@email"
 $ git  config  --global  trailer.changeid.key  "Change-Id"
 
 setup directory for sources:
