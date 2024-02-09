@@ -53,3 +53,30 @@ https://github.com/M0Rf30/android-udev-rules#installation
 **plugdev**
 
 
+## Build environment
+
+TBA
+
+
+## Compilation
+
+TBA
+
+
+## Flashing
+
+TBA
+
+
+## Emulation
+
+TBA
+
+
+## Internals
+
+### Filesystem
+
+TBA
+
+
