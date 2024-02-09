@@ -77,6 +77,14 @@ TBA
 
 ### Filesystem
 
+#### Location
+
+This section contains the locations of some known files
+
+/dev/block/bootdevice/by-name/LOGO  static boot logo
+/system/media/bootanimation.zip  boot animation
+mmssms.db  SMS & MMS
+
 TBA
 
 
