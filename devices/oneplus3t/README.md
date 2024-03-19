@@ -177,18 +177,18 @@ TBA
 **CHECK md5/sha256 sums before sending any file to a device**
 
 - configure environment
--- download & set latest adb/fastboot
--- configure rules / permissions
+  - download & set latest adb/fastboot
+  - configure rules / permissions
 - enable adb on the target android device
-- oem unlock
-- run:
-```
-adb  reboot  bootloader
-fastboot  devices
-fastboot  oem  unlock
-```
-- unlock
-- set up & enable adb again after wiping & reboot
+- enable `oem unlock` in _Settings_
+- attach android device to PC
+  - reboot to bootloader: `$ adb  reboot  bootloader`
+  - make sure that target device is _active_ and visible: `$ fastboot  devices`
+  - initiate bootloader unlocking: `$ fastboot  oem  unlock`
+- follow prompts on the screen to unlock bootloader
+- device will be wiped & rebooted
+- set up device again after first start
+- enable adb again in _Settings_
 ```
 adb  reboot  bootloader
 fastboot  boot  /path/to/recovery.img // to test & to backup
