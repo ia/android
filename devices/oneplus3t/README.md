@@ -59,7 +59,6 @@ Update size: 1498MB
 - wait for reboot & update install
 
 
-TBA
 
 
 ## Custom firmware
