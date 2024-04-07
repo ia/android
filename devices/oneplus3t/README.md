@@ -19,7 +19,7 @@ System
 • Updated Android security patch to 2019.10
 • Updated GMS apps
 • General bug fixes and improvements
-
+ 'z-var' into z-localization
 9.0.6
 	November 29, 2019
 
@@ -65,17 +65,15 @@ Update size: 1498MB
 
 ### TWRP
 
-site
-https://twrp.me/
+- [official site](https://twrp.me) / https://twrp.me
 
-apk
-https://dl.twrp.me/twrpapp/
+#### APK
 
-apk links
-https://dl.twrp.me/twrpapp/me.twrp.twrpapp-26.apk
-https://dl.twrp.me/twrpapp/me.twrp.twrpapp-26.apk.md5
-https://dl.twrp.me/twrpapp/me.twrp.twrpapp-26.apk.sha256
+- [App page](https://dl.twrp.me/twrpapp) / https://dl.twrp.me/twrpapp
+- [APK link](https://dl.twrp.me/twrpapp/me.twrp.twrpapp-26.apk) / https://dl.twrp.me/twrpapp/me.twrp.twrpapp-26.apk ( [md5](https://dl.twrp.me/twrpapp/me.twrp.twrpapp-26.apk.md5) | [sha256](https://dl.twrp.me/twrpapp/me.twrp.twrpapp-26.apk.sha256) )
 
+#### Recovery
+TBA
 device page
 https://twrp.me/oneplus/oneplusthree.html
 
