@@ -188,9 +188,7 @@ TBA
 - set up device again after first start
 - enable adb again in _Settings_
 - reboot to bootloader: `adb  reboot  bootloader`
-```
-fastboot  boot  /path/to/recovery.img // to test & to backup
-```
+- boot to custom recovery (without flashing it to test & to backup original firmware): `fastboot  boot  /path/to/recovery.img`
 - backup everything using twrp
 - transfer backup to reliable storage
 - reboot to bootloader
