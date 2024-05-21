@@ -197,12 +197,10 @@ TBA
 - boot to recovery
 - wipe everything except system
 - reboot to recovery
-
 - sideload
-
 - sideload gapps
 
-TBA
+
 
 
 ## Rooting
