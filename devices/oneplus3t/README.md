@@ -133,7 +133,7 @@ https://wiki.pixelexperience.org/devices/oneplus3/build
 
 ### LineageOS
 
-Builds
+### Builds
 
 download place
 https://download.lineageos.org/devices/oneplus3/builds
