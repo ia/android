@@ -135,8 +135,7 @@ https://wiki.pixelexperience.org/devices/oneplus3/build
 
 ### Builds
 
-download page
-https://download.lineageos.org/devices/oneplus3/builds
+[download page](https://download.lineageos.org/devices/oneplus3/builds)
 
 download link
 zip
