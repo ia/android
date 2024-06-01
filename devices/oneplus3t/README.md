@@ -137,10 +137,8 @@ https://wiki.pixelexperience.org/devices/oneplus3/build
 
 [download page](https://download.lineageos.org/devices/oneplus3/builds)
 
-download link
-zip
-https://mirrorbits.lineageos.org/full/oneplus3/20231205/lineage-18.1-20231205-nightly-oneplus3-signed.zip
-9e1abcfeafce164f8ddca6c4d754976ece5be97bc77cad088b077eaf2d889bf5
+[download link/zip](https://mirrorbits.lineageos.org/full/oneplus3/20231205/lineage-18.1-20231205-nightly-oneplus3-signed.zip)
+`9e1abcfeafce164f8ddca6c4d754976ece5be97bc77cad088b077eaf2d889bf5`
 
 boot.img
 https://mirrorbits.lineageos.org/full/oneplus3/20231205/boot.img
