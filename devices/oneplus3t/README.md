@@ -119,7 +119,7 @@ https://get.pixelexperience.org/oneplus3
 download link
 zip
 https://get.pixelexperience.org/changelog/oneplus3/PixelExperience_oneplus3-11.0-20210921-1306-OFFICIAL.zip
-b8df266730ffab20659bc51f691fcacd
+`b8df266730ffab20659bc51f691fcacd`
 
 tutorials
 https://wiki.pixelexperience.org/devices/oneplus3/
