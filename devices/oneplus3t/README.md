@@ -133,7 +133,7 @@ https://wiki.pixelexperience.org/devices/oneplus3/build
 
 ### LineageOS
 
-### Builds
+#### Builds
 
 [download page](https://download.lineageos.org/devices/oneplus3/builds)
 
@@ -155,7 +155,7 @@ https://wiki.pixelexperience.org/devices/oneplus3/build
 
 
 
-### Building manually
+#### Building manually
 
 TBA
 
