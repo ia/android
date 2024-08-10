@@ -152,12 +152,12 @@ https://wiki.pixelexperience.org/devices/oneplus3/build
 [recovery.img](https://mirrorbits.lineageos.org/full/oneplus3/20231205/recovery.img)
 `00b0e108d2b81e1108dd9fb6976821dbabccb7250dbe8909f2cf4df2ae665498`
 
-[building](https://wiki.lineageos.org/devices/oneplus3/build/variant2)
-
 
 
 
 #### Building manually
+
+[building](https://wiki.lineageos.org/devices/oneplus3/build/variant2)
 
 TBA
 
