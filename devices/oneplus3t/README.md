@@ -70,7 +70,9 @@ Update size: 1498MB
 #### APK
 
 - [App page](https://dl.twrp.me/twrpapp) / https://dl.twrp.me/twrpapp
-- [APK link](https://dl.twrp.me/twrpapp/me.twrp.twrpapp-26.apk) / https://dl.twrp.me/twrpapp/me.twrp.twrpapp-26.apk ( [md5](https://dl.twrp.me/twrpapp/me.twrp.twrpapp-26.apk.md5) | [sha256](https://dl.twrp.me/twrpapp/me.twrp.twrpapp-26.apk.sha256) )
+- [APK link](https://dl.twrp.me/twrpapp/me.twrp.twrpapp-26.apk) / https://dl.twrp.me/twrpapp/me.twrp.twrpapp-26.apk
+  - [md5](https://dl.twrp.me/twrpapp/me.twrp.twrpapp-26.apk.md5)
+  - [sha256](https://dl.twrp.me/twrpapp/me.twrp.twrpapp-26.apk.sha256)
 
 #### Recovery
 
