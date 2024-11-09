@@ -77,10 +77,7 @@ Update size: 1498MB
 #### Recovery
 
 - [device page](https://twrp.me/oneplus/oneplusthree.html)
-
-download place
-https://dl.twrp.me/oneplus3/
-https://dl.twrp.me/oneplus3/twrp-3.7.0_9-0-oneplus3.img.html
+- [download page](https://dl.twrp.me/oneplus3)
 
 download link
 https://dl.twrp.me/oneplus3/twrp-3.7.0_9-0-oneplus3.img
