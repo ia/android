@@ -79,8 +79,7 @@ Update size: 1498MB
 - [device page](https://twrp.me/oneplus/oneplusthree.html)
 - [download page](https://dl.twrp.me/oneplus3)
 - [download link](https://dl.twrp.me/oneplus3/twrp-3.7.0_9-0-oneplus3.img)
-
-https://dl.twrp.me/oneplus3/twrp-3.7.0_9-0-oneplus3.img.md5
+  - [md5](https://dl.twrp.me/oneplus3/twrp-3.7.0_9-0-oneplus3.img.md5)
 https://dl.twrp.me/oneplus3/twrp-3.7.0_9-0-oneplus3.img.sha256
 
 xda thread
