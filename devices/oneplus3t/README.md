@@ -82,9 +82,7 @@ Update size: 1498MB
   - [md5](https://dl.twrp.me/oneplus3/twrp-3.7.0_9-0-oneplus3.img.md5)
   - [sha256](https://dl.twrp.me/oneplus3/twrp-3.7.0_9-0-oneplus3.img.sha256)
 - [xda thread](https://xdaforums.com/t/recovery-unified-official-twrp-touch-recovery-for-oneplus-3-3t.3742894)
-
-source tree
-https://github.com/TeamWin/android_device_oneplus_oneplus3
+- [source tree](https://github.com/TeamWin/android_device_oneplus_oneplus3)
 
 minimal build env
 https://github.com/minimal-manifest-twrp
