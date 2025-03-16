@@ -88,9 +88,7 @@ Update size: 1498MB
 ### GApps
 
 - [opengapps](https://opengapps.org) (<=11)
-
-mindthegaps (github)
-https://github.com/MindTheGapps
+- [mindthegaps (github)](https://github.com/MindTheGapps)
 
 mindthegaps (gitlab)
 https://gitlab.com/MindTheGapps
