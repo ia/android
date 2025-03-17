@@ -89,9 +89,7 @@ Update size: 1498MB
 
 - [opengapps](https://opengapps.org) (<=11)
 - [mindthegaps (github)](https://github.com/MindTheGapps)
-
-mindthegaps (gitlab)
-https://gitlab.com/MindTheGapps
+- [mindthegaps (gitlab)](https://gitlab.com/MindTheGapps)
 
 
 ### PixelExperience
