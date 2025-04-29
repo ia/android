@@ -6,6 +6,8 @@
 
 
 ### bifrost
+https://github.com/zacharee/SamloaderKotlin
+
 
 ### odin
 
