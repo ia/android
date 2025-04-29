@@ -7,7 +7,7 @@
 
 ### bifrost
 https://github.com/zacharee/SamloaderKotlin
-
+Samsung firwmare downloader
 
 ### odin
 
