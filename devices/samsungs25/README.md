@@ -10,6 +10,7 @@ https://github.com/zacharee/SamloaderKotlin
 Samsung firwmare downloader
 
 ### odin
+Samsung firmware flasher
 
 ### heimdall
 
