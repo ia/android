@@ -13,6 +13,7 @@ Samsung firwmare downloader
 Samsung firmware flasher
 
 ### heimdall
+Open Source Samsung firmware flasher based on reverse engineering Samsung flashing protocols
 
 ### samfw
 
