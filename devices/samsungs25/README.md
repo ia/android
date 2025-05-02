@@ -10,7 +10,7 @@ https://github.com/zacharee/SamloaderKotlin
 Samsung firwmare downloader
 
 ### odin
-Samsung firmware flasher
+Proprietary Samsung firmware flasher
 
 ### heimdall
 Open Source Samsung firmware flasher based on reverse engineering Samsung flashing protocols
