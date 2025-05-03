@@ -7,7 +7,7 @@
 
 ### bifrost
 https://github.com/zacharee/SamloaderKotlin
-Samsung firwmare downloader
+Open Source Samsung firwmare downloader
 
 ### odin
 Proprietary Samsung firmware flasher
